@@ -5,8 +5,8 @@
 
 Тетрадки с решением
 ---
-- [Ссылка](https://colab.research.google.com/drive/1uoYn4tTkKsK52ueDclepkhlLNiURcRDu?usp=sharing) на коллаб для первой части  
-
+- [Ссылка](https://colab.research.google.com/drive/1uoYn4tTkKsK52ueDclepkhlLNiURcRDu?usp=sharing) на коллаб для первой части (Python)
+- [Ссылка](https://colab.research.google.com/drive/1PJfsLF3bCxCJ_Hbsl3ne1qakkjqL6K7e?usp=sharing) на коллаб для второй части (R)
 
 Отчет MultiQC
 ---
@@ -26,3 +26,20 @@
 |     4 | SRR3414635 |        контроль       |          20956475          |                                   20395865 (97.32%)                                   |                18428317 (87.94%)               |                  16275997                 |
 |     5 | SRR3414636 |        контроль       |          20307147          |                                   19757059 (97.29%)                                   |                17825380 (87.78%)               |                  15757580                 |
 |     6 | SRR3414637 |        контроль       |          20385570          |                                   19847291 (97.36 )                                   |                17844858 (87.54%)               |                  15736978                 |
+
+MA-plot
+---
+![image](https://user-images.githubusercontent.com/23341597/144620037-76eec970-af44-4004-a35e-a6c33bf15d04.png)
+
+Тепловая карта
+---
+![image](https://user-images.githubusercontent.com/23341597/144620403-e03a4f22-d8f2-4b05-9a7f-83edaf3d1da7.png)
+
+Графики для генов, которые наиболее значимо поменяли свою экспрессию
+---
+![image](https://user-images.githubusercontent.com/23341597/144637415-0a600ec2-b663-4c9c-95ec-af75ef5d98e4.png)
+![image](https://user-images.githubusercontent.com/23341597/144637462-591d67d6-ab1d-438e-98ba-f473b6155323.png)
+![image](https://user-images.githubusercontent.com/23341597/144637645-d369094d-05f4-4107-b0af-956396a29d13.png)
+![image](https://user-images.githubusercontent.com/23341597/144637683-d5b78b43-79d1-41de-aa70-526369cc5fdb.png)
+![image](https://user-images.githubusercontent.com/23341597/144637710-41c04314-bc59-40a1-8b2f-2264b19c08dc.png)
+
