@@ -5,7 +5,7 @@
 
 Тетрадки с решением
 ---
-- [Ссылка](https://colab.research.google.com/drive/1uoYn4tTkKsK52ueDclepkhlLNiURcRDu?usp=sharing) на коллаб для первой части (Python)
+- [Ссылка](https://colab.research.google.com/drive/1JR9K9-lDlM1suAnymo95lMLkcySzC2SR?usp=sharing) на коллаб для первой части (Python)
 - [Ссылка](https://colab.research.google.com/drive/1PJfsLF3bCxCJ_Hbsl3ne1qakkjqL6K7e?usp=sharing) на коллаб для второй части (R)
 
 Отчет MultiQC
